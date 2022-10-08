@@ -1,0 +1,290 @@
+[
+  {
+    "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
+    "name": "Push-Up",
+    "details": "For many, treadmills are a good choice to begin a new exercise routine because walking is well",
+    "age": 36,
+    "img": "https://www.outsideonline.com/wp-content/uploads/2017/07/27/perfect-push-up_s.jpg",
+    "time": 35
+  },
+  {
+    "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
+    "name": "Jumping Jack",
+    "details": "For many, treadmills are a good choice to begin a new exercise routine because walking is well",
+    "age": 30,
+    "img": "https://cathe.com/wp-content/uploads/2020/02/shutterstock_502211857.jpg",
+    "time": 32
+  },
+  {
+    "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
+    "name": "Bench Press Machine",
+    "details": "For many, treadmills are a good choice to begin a new exercise routine because walking is well",
+    "age": 35,
+    "img": "https://www.bestusedgymequipment.com/wp-content/uploads/2018/04/olympic-flat-bench-300x300.jpg",
+    "time": 25
+  },
+  {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "name": "Treadmill Training",
+    "age": 40,
+    "details": "For many, treadmills are a good choice to begin a new exercise routine because walking is well",
+    "img": "https://www.runtastic.com/blog/wp-content/uploads/2016/11/15.11._Running-On-A-Treadmill.jpg",
+    "time": 20
+  },
+  {
+    "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
+    "name": "High impact",
+    "details": "For many, treadmills are a good choice to begin a new exercise routine because walking is well",
+    "age": 30,
+    "img": "https://img.freepik.com/free-vector/illustrated-dance-fitness-class_52683-58310.jpg?w=2000",
+    "time": 25
+  },
+  {
+    "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
+    "name": "Dumbbell",
+    "details": "For many, treadmills are a good choice to begin a new exercise routine because walking is well",
+    "age": 32,
+    "img": "https://static-01.daraz.com.bd/p/142b1c29e0f3a130adb32ce89fc858ec.jpg",
+    "time": 30
+  },
+  {
+    "id": "9496d72b-04ec-41f8-9bc3-0a7c9697be8e",
+    "name": "Heavy calisthenics",
+    "details": "For many, treadmills are a good choice to begin a new exercise routine because walking is well",
+    "age": 37,
+    "img": "https://athleticmuscle.net/wp-content/uploads/2018/11/calisthenics.png",
+    "time": 30
+  },
+  {
+    "id": "9c0c13c2-54e4-4001-809b-afbd9d84037d",
+    "name": "Skiing Machine",
+    "details": "For many, treadmills are a good choice to begin a new exercise routine because walking is well",
+    "age": 25,
+    "img": "https://img.livestrong.com/375/cme-data/getty%2F61e300d417184795974c76562e7314df.jpg",
+    "time": 25
+  },
+  {
+    "id": "c9d1f410-d28f-49d9-9b01-d759b5acbeea",
+    "name": "Jumping Rope",
+    "details": "For many, treadmills are a good choice to begin a new exercise routine because walking is well",
+    "age": 20,
+    "img": "https://everydaypower.com/wp-content/uploads/2016/11/Benefits-of-Jumping-Rope-During-Your-Morning-Routine.jpg",
+    "time": 20
+  },
+  {
+    "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
+    "name": "Push-Up",
+    "details": "For many, treadmills are a good choice to begin a new exercise routine because walking is well",
+    "age": 36,
+    "img": "https://www.outsideonline.com/wp-content/uploads/2017/07/27/perfect-push-up_s.jpg",
+    "time": 35
+  },
+  {
+    "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
+    "name": "Jumping Jack",
+    "details": "For many, treadmills are a good choice to begin a new exercise routine because walking is well",
+    "age": 30,
+    "img": "https://cathe.com/wp-content/uploads/2020/02/shutterstock_502211857.jpg",
+    "time": 32
+  },
+  {
+    "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
+    "name": "Bench Press Machine",
+    "details": "For many, treadmills are a good choice to begin a new exercise routine because walking is well",
+    "age": 35,
+    "img": "https://www.bestusedgymequipment.com/wp-content/uploads/2018/04/olympic-flat-bench-300x300.jpg",
+    "time": 25
+  },
+  {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "name": "Treadmill Training",
+    "age": 40,
+    "details": "For many, treadmills are a good choice to begin a new exercise routine because walking is well",
+    "img": "https://www.runtastic.com/blog/wp-content/uploads/2016/11/15.11._Running-On-A-Treadmill.jpg",
+    "time": 20
+  },
+  {
+    "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
+    "name": "High impact",
+    "details": "For many, treadmills are a good choice to begin a new exercise routine because walking is well",
+    "age": 30,
+    "img": "https://img.freepik.com/free-vector/illustrated-dance-fitness-class_52683-58310.jpg?w=2000",
+    "time": 25
+  },
+  {
+    "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
+    "name": "Dumbbell",
+    "details": "For many, treadmills are a good choice to begin a new exercise routine because walking is well",
+    "age": 32,
+    "img": "https://static-01.daraz.com.bd/p/142b1c29e0f3a130adb32ce89fc858ec.jpg",
+    "time": 30
+  },
+  {
+    "id": "9496d72b-04ec-41f8-9bc3-0a7c9697be8e",
+    "name": "Heavy calisthenics",
+    "details": "For many, treadmills are a good choice to begin a new exercise routine because walking is well",
+    "age": 37,
+    "img": "https://athleticmuscle.net/wp-content/uploads/2018/11/calisthenics.png",
+    "time": 30
+  },
+  {
+    "id": "9c0c13c2-54e4-4001-809b-afbd9d84037d",
+    "name": "Skiing Machine",
+    "details": "For many, treadmills are a good choice to begin a new exercise routine because walking is well",
+    "age": 25,
+    "img": "https://img.livestrong.com/375/cme-data/getty%2F61e300d417184795974c76562e7314df.jpg",
+    "time": 25
+  },
+  {
+    "id": "c9d1f410-d28f-49d9-9b01-d759b5acbeea",
+    "name": "Jumping Rope",
+    "details": "For many, treadmills are a good choice to begin a new exercise routine because walking is well",
+    "age": 20,
+    "img": "https://everydaypower.com/wp-content/uploads/2016/11/Benefits-of-Jumping-Rope-During-Your-Morning-Routine.jpg",
+    "time": 20
+  },
+  {
+    "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
+    "name": "Push-Up",
+    "details": "For many, treadmills are a good choice to begin a new exercise routine because walking is well",
+    "age": 36,
+    "img": "https://www.outsideonline.com/wp-content/uploads/2017/07/27/perfect-push-up_s.jpg",
+    "time": 35
+  },
+  {
+    "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
+    "name": "Jumping Jack",
+    "details": "For many, treadmills are a good choice to begin a new exercise routine because walking is well",
+    "age": 30,
+    "img": "https://cathe.com/wp-content/uploads/2020/02/shutterstock_502211857.jpg",
+    "time": 32
+  },
+  {
+    "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
+    "name": "Bench Press Machine",
+    "details": "For many, treadmills are a good choice to begin a new exercise routine because walking is well",
+    "age": 35,
+    "img": "https://www.bestusedgymequipment.com/wp-content/uploads/2018/04/olympic-flat-bench-300x300.jpg",
+    "time": 25
+  },
+  {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "name": "Treadmill Training",
+    "age": 40,
+    "details": "For many, treadmills are a good choice to begin a new exercise routine because walking is well",
+    "img": "https://www.runtastic.com/blog/wp-content/uploads/2016/11/15.11._Running-On-A-Treadmill.jpg",
+    "time": 20
+  },
+  {
+    "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
+    "name": "High impact",
+    "details": "For many, treadmills are a good choice to begin a new exercise routine because walking is well",
+    "age": 30,
+    "img": "https://img.freepik.com/free-vector/illustrated-dance-fitness-class_52683-58310.jpg?w=2000",
+    "time": 25
+  },
+  {
+    "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
+    "name": "Dumbbell",
+    "details": "For many, treadmills are a good choice to begin a new exercise routine because walking is well",
+    "age": 32,
+    "img": "https://static-01.daraz.com.bd/p/142b1c29e0f3a130adb32ce89fc858ec.jpg",
+    "time": 30
+  },
+  {
+    "id": "9496d72b-04ec-41f8-9bc3-0a7c9697be8e",
+    "name": "Heavy calisthenics",
+    "details": "For many, treadmills are a good choice to begin a new exercise routine because walking is well",
+    "age": 37,
+    "img": "https://athleticmuscle.net/wp-content/uploads/2018/11/calisthenics.png",
+    "time": 30
+  },
+  {
+    "id": "9c0c13c2-54e4-4001-809b-afbd9d84037d",
+    "name": "Skiing Machine",
+    "details": "For many, treadmills are a good choice to begin a new exercise routine because walking is well",
+    "age": 25,
+    "img": "https://img.livestrong.com/375/cme-data/getty%2F61e300d417184795974c76562e7314df.jpg",
+    "time": 25
+  },
+  {
+    "id": "c9d1f410-d28f-49d9-9b01-d759b5acbeea",
+    "name": "Jumping Rope",
+    "details": "For many, treadmills are a good choice to begin a new exercise routine because walking is well",
+    "age": 20,
+    "img": "https://everydaypower.com/wp-content/uploads/2016/11/Benefits-of-Jumping-Rope-During-Your-Morning-Routine.jpg",
+    "time": 20
+  },
+  {
+    "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
+    "name": "Push-Up",
+    "details": "For many, treadmills are a good choice to begin a new exercise routine because walking is well",
+    "age": 36,
+    "img": "https://www.outsideonline.com/wp-content/uploads/2017/07/27/perfect-push-up_s.jpg",
+    "time": 35
+  },
+  {
+    "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
+    "name": "Jumping Jack",
+    "details": "For many, treadmills are a good choice to begin a new exercise routine because walking is well",
+    "age": 30,
+    "img": "https://cathe.com/wp-content/uploads/2020/02/shutterstock_502211857.jpg",
+    "time": 32
+  },
+  {
+    "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
+    "name": "Bench Press Machine",
+    "details": "For many, treadmills are a good choice to begin a new exercise routine because walking is well",
+    "age": 35,
+    "img": "https://www.bestusedgymequipment.com/wp-content/uploads/2018/04/olympic-flat-bench-300x300.jpg",
+    "time": 25
+  },
+  {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "name": "Treadmill Training",
+    "age": 40,
+    "details": "For many, treadmills are a good choice to begin a new exercise routine because walking is well",
+    "img": "https://www.runtastic.com/blog/wp-content/uploads/2016/11/15.11._Running-On-A-Treadmill.jpg",
+    "time": 20
+  },
+  {
+    "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
+    "name": "High impact",
+    "details": "For many, treadmills are a good choice to begin a new exercise routine because walking is well",
+    "age": 30,
+    "img": "https://img.freepik.com/free-vector/illustrated-dance-fitness-class_52683-58310.jpg?w=2000",
+    "time": 25
+  },
+  {
+    "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
+    "name": "Dumbbell",
+    "details": "For many, treadmills are a good choice to begin a new exercise routine because walking is well",
+    "age": 32,
+    "img": "https://static-01.daraz.com.bd/p/142b1c29e0f3a130adb32ce89fc858ec.jpg",
+    "time": 30
+  },
+  {
+    "id": "9496d72b-04ec-41f8-9bc3-0a7c9697be8e",
+    "name": "Heavy calisthenics",
+    "details": "For many, treadmills are a good choice to begin a new exercise routine because walking is well",
+    "age": 37,
+    "img": "https://athleticmuscle.net/wp-content/uploads/2018/11/calisthenics.png",
+    "time": 30
+  },
+  {
+    "id": "9c0c13c2-54e4-4001-809b-afbd9d84037d",
+    "name": "Skiing Machine",
+    "details": "For many, treadmills are a good choice to begin a new exercise routine because walking is well",
+    "age": 25,
+    "img": "https://img.livestrong.com/375/cme-data/getty%2F61e300d417184795974c76562e7314df.jpg",
+    "time": 25
+  },
+  {
+    "id": "c9d1f410-d28f-49d9-9b01-d759b5acbeea",
+    "name": "Jumping Rope",
+    "details": "For many, treadmills are a good choice to begin a new exercise routine because walking is well",
+    "age": 20,
+    "img": "https://everydaypower.com/wp-content/uploads/2016/11/Benefits-of-Jumping-Rope-During-Your-Morning-Routine.jpg",
+    "time": 20
+  }
+]

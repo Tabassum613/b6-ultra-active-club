@@ -1,0 +1,93 @@
+.question {
+    padding-top: 10px;
+    padding-left: 0px;
+    padding-bottom: 20px;
+}
+
+
+
+#accordian section p {
+    display: none;
+    background: white;
+    margin-left: -50px;
+    padding-left: 10px;
+    padding-bottom: 20px;
+    margin-left: -10px;
+    margin-bottom: -20px;
+    margin-top: 10px;
+    color: black;
+}
+
+#accordian section a {
+
+    color: white;
+}
+
+#q1 {
+
+    text-decoration: none;
+    background: skyblue;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    margin-right: 200px;
+    color: rgb(255, 255, 255);
+    margin-bottom: 10px;
+}
+
+#q2 {
+    text-decoration: none;
+    background: skyblue;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 8px;
+    font-weight: bold;
+    margin-right: 200px;
+    color: rgb(255, 255, 255);
+    margin-bottom: 10px;
+}
+
+#q3 {
+    text-decoration: none;
+    background: skyblue;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 8px;
+    font-weight: bold;
+    margin-right: 200px;
+    color: rgb(255, 255, 255);
+    margin-bottom: 10px;
+}
+
+#q4 {
+    text-decoration: none;
+    background: skyblue;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 8px;
+    font-weight: bold;
+    margin-right: 200px;
+    color: rgb(255, 255, 255);
+    margin-bottom: 10px;
+}
+
+#q5 {
+    text-decoration: none;
+    background: skyblue;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 8px;
+    font-weight: bold;
+    margin-right: 200px;
+    color: rgb(255, 255, 255);
+    margin-bottom: 10px;
+}
+
+#accordian section a:hover {
+    text-decoration: underline;
+}
+
+#accordian section:target p {
+    display: block;
+}

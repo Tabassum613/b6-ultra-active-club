@@ -1,0 +1,39 @@
+.Bind {
+    display: flex;
+    padding-bottom: 30px;
+}
+
+.ProfilePicture img {
+    border-radius: 50%;
+    border: 1px solid;
+}
+
+.ProfilePicture {
+    padding-bottom: 10px;
+}
+
+.Stext {
+    font-size: 25px;
+}
+
+.card-bg {
+    background-color: rgba(211, 211, 211, 0.662);
+    border-radius: 5px;
+    margin: 10px 0;
+    padding: 15px 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 3px 3px;
+}
+
+li {
+    list-style: none;
+    padding: 10px;
+    background-color: white;
+    font-weight: bold;
+    margin: 0 14px;
+    border-radius: 100%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 3px 3px;
+}
+
+li:hover {
+    cursor: pointer;
+}
